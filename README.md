@@ -1,6 +1,6 @@
 Hi, I'm Dennis.
 
-- BSc Computer Science for Games student at University of Brighton.
+- BSc Computer Science for Games student.
 - I am passionate about programming and game development with Unity, Unreal Engine and Construct 3.
 - I have participated in the Europiean Astro Pi Challenge, in which our team's code successfully executed on the International Space Station (ISS).
 - This portfolio contains the projects I have worked on by myself and by collaborating with others.
