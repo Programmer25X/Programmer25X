@@ -1,5 +1,14 @@
-## Hi there 👋
+Hi, I'm Dennis.
 
+- BSc Computer Science for Games student at University of Brighton.
+- I am passionate about programming and game development with Unity, Unreal Engine and Construct 3.
+- I have participated in the Europiean Astro Pi Challenge, in which our team's code successfully executed on the International Space Station (ISS).
+- This portfolio contains the projects I have worked on by myself and by collaborating with others.
+
+
+My Skills:
+- Programming Languages: C#, C++ and Python
+- Tools: Unity, Unreal Engine, Construct3 and GitHub
 <!--
 **Programmer25X/Programmer25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
