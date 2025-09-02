@@ -7,8 +7,8 @@ Hi, I'm Dennis.
 
 
 My Skills:
-- Programming Languages: C#, C++ and Python
-- Tools: Unity, Unreal Engine, Construct3 and GitHub
+- Programming Languages: C#, C++ and Python.
+- Tools: Unity, Unreal Engine, Construct3 and GitHub.
 <!--
 **Programmer25X/Programmer25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
