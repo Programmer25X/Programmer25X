@@ -7,7 +7,7 @@ Hi, I'm Dennis.
 ----
 
 ## Skills
-- Programming Languages: C#, C++ and Python
+- Programming Languages: C# and C++
 - Tools: Unity, Unreal Engine, Visual Studio and GitHub
 
 ----
