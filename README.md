@@ -1,11 +1,8 @@
 ## About Me
 
-Hi, I'm Dennis.
-
-- BSc Computer Science for Games student
-- I am passionate about programming and game development with Unity and Unreal Engine
+Hi, I'm Dennis. 
+- I'm a BSc Computer Science for Games student passionate about games programming.
 - I have participated in the Europiean Astro Pi Challenge, in which our team's code successfully executed on the International Space Station (ISS)
-- This portfolio contains the projects I have worked on by myself and when collaborating with others
 
 ----
 
