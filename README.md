@@ -1,3 +1,5 @@
+## About Me
+
 Hi, I'm Dennis.
 
 - BSc Computer Science for Games student
@@ -5,16 +7,19 @@ Hi, I'm Dennis.
 - I have participated in the Europiean Astro Pi Challenge, in which our team's code successfully executed on the International Space Station (ISS)
 - This portfolio contains the projects I have worked on by myself and when collaborating with others
 
+----
 
-My Skills:
+## Skills
 - Programming Languages: C#, C++ and Python
 - Tools: Unity, Unreal Engine, Visual Studio and GitHub
+
+----
 <!--
 **Programmer25X/Programmer25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+out - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
