@@ -1,7 +1,8 @@
 ## About Me
 
 Hi, I'm Dennis. 
--  I am a first-year BSc Computer Science for Games student, interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics.
+
+I am a first-year BSc Computer Science for Games student, interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics.
 
 ----
 
