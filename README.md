@@ -17,8 +17,9 @@ I am a first-year BSc Computer Science for Games student at the [University of B
 <img src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
 <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-
 ----
+
+## Socials
 <!--
 **Programmer25X/Programmer25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
