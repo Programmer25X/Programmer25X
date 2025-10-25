@@ -16,7 +16,10 @@ I am a first-year BSc Computer Science for Games student at the [University of B
 ----
 
 ## Contact & Socials
-![<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]
+![LinkedIn Profile](https://www.linkedin.com/in/denniscc-20b7a2309/) 
+
+<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
 <!--
 **Programmer25X/Programmer25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
