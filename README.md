@@ -5,8 +5,8 @@ I am a first-year BSc Computer Science for Games student at the [University of B
 ----
 
 ## Skills
-- Programming Languages: C# and C++
-- Tools: Unity, Unreal Engine, Visual Studio, Visual Studio Code, Git and GitHub
+**Programming Languages**: C# and C++
+**Tools**: Unity, Unreal Engine, Visual Studio, Visual Studio Code, Git and GitHub
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,visualstudio,vscode,git,github)](https://skillicons.dev)
 
