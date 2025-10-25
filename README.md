@@ -13,8 +13,6 @@ I am a first-year BSc Computer Science for Games student at the [University of B
 <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
 <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,visualstudio,vscode,git,github)](https://skillicons.dev)
-
 ----
 <!--
 **Programmer25X/Programmer25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
