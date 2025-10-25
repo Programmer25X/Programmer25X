@@ -1,7 +1,5 @@
 ## About Me
 
-Hi, I'm Dennis. 
-
 I am a first-year BSc Computer Science for Games student at the [University of Brighton](https://www.brighton.ac.uk/index.aspx), interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics.
 
 ----
@@ -18,8 +16,6 @@ I am a first-year BSc Computer Science for Games student at the [University of B
 <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ----
-
-## Socials
 <!--
 **Programmer25X/Programmer25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
