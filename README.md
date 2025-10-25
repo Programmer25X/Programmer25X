@@ -21,7 +21,7 @@ I am a first-year BSc Computer Science for Games student at the [University of B
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer25X&show_icons=true&theme=shadow_green&rank_icon=github&hide_rank=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer25X&layout=donut-vertical&theme=shadow_green&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer25X&layout=donut&theme=shadow_green&langs_count=8&card_width=320" />
 </a>
 
 ## Contact & Socials
