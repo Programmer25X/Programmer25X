@@ -15,12 +15,11 @@ I am a first-year BSc Computer Science for Games student at the [University of B
 ----
 
 ## GitHub Stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer25X&show_icons=true&theme=shadow_green&rank_icon=github&hide_rank=true"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer25X&layout=donut&theme=shadow_green&langs_count=8&card_width=320"/>
+
 
 ## Contact & Socials
 <a href ="https://www.linkedin.com/in/denniscc-20b7a2309/" target = "_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link to LinkedIn Profile">
-<a href = "https://programmer025x.itch.io/"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to Itch.io Profile">
+<a href ="https://programmer025x.itch.io/"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to Itch.io Profile">
 
 
 <!--
