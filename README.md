@@ -6,7 +6,6 @@
 Hi, I am Dennis. 👋
 
 I am a first-year BSc Computer Science for Games student 🎮 at the [University of Brighton](https://www.brighton.ac.uk/index.aspx), interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics. Currently, I am learning Unity/C# and Unreal Engine 5/C++
-
 <br></br>
 
 ## Skills
@@ -16,7 +15,6 @@ I am a first-year BSc Computer Science for Games student 🎮 at the [University
 <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
 <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <br>
 </picture>
-
 <br></br>
 
 ## GitHub Stats
@@ -24,7 +22,6 @@ I am a first-year BSc Computer Science for Games student 🎮 at the [University
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer25X&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Programmer25X&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Programmer25X&theme=github_dark) 
-
 <br></br>
 
 ## Contact & Socials
