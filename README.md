@@ -3,19 +3,19 @@
 
 ## <p align="center"> **About Me** </p>
 
-Hi, I am Dennis. 👋
-
-I am a first-year BSc (Hons) Computer Science for Games student 🎮 at the [University of Brighton](https://www.brighton.ac.uk/index.aspx), interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics. 
-
-Currently, I am learning more about Unity, Unreal Engine 5, C++ by developing small programs and game prototypes.
+<p align="center"> Hi, I am Dennis. 👋 </p>
+<p align="center">  I am a first-year BSc (Hons) Computer Science for Games student 🎮 at the <a href="https://www.brighton.ac.uk/index.aspx">University of Brighton</a>, interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics. </p>
+<p align="center"> Currently, I am learning more about Unity, Unreal Engine 5, C++ by developing small programs and game prototypes. </p>
 <br></br>
 
 ## <p align="center"> Skills </p>
 <picture>
-<img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white ">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
-<img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
-<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <br>
+<p align="center"> 
+  <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white ">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
+  <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
+  <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+</p>
 </picture>
 <br></br>
 
@@ -27,8 +27,10 @@ Currently, I am learning more about Unity, Unreal Engine 5, C++ by developing sm
 <br></br>
 
 ## <p align="center"> **Contact & Socials** </p>
-<a href ="https://www.linkedin.com/in/denniscc-20b7a2309/" target = "_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link to LinkedIn Profile">
-<a href ="https://programmer025x.itch.io/" target = "_blank"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to itch.io Profile">
+<p align="center"> 
+  <a href ="https://www.linkedin.com/in/denniscc-20b7a2309/" target = "_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link to LinkedIn Profile">
+  <a href ="https://programmer025x.itch.io/" target = "_blank"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to itch.io Profile"> </a> 
+  </p>
 
 
 <!--
