@@ -1,6 +1,5 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=53&pause=500&color=50EB72&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Dennis+Cullip-Cross+-++Games+Programmer" alt="Typing SVG"/></a> </p>
-<br></br>
 
 ## <p align="center"> **About Me** </p>
 
