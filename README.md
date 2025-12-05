@@ -1,7 +1,7 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=53&pause=500&color=50EB72&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Dennis+Cullip-Cross+-++Games+Programmer" alt="Typing SVG"/></a> </p>
 
-## About Me
+## <p align="center"> About Me </p>
 
 Hi, I am Dennis. 👋
 
@@ -10,7 +10,7 @@ I am a first-year BSc (Hons) Computer Science for Games student 🎮 at the [Uni
 Currently, I am learning more about Unity, Unreal Engine 5, C++ by developing game prototypes.
 <br></br>
 
-## Skills
+## <p align="center"> Skills </p>
 <picture>
 <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white ">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
@@ -19,14 +19,14 @@ Currently, I am learning more about Unity, Unreal Engine 5, C++ by developing ga
 </picture>
 <br></br>
 
-## GitHub Stats
+## <p align="center"> GitHub Stats </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer25X&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Programmer25X&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Programmer25X&theme=github_dark) 
 <br></br>
 
-## Contact & Socials
+## <p align="center"> Contact & Socials </p>
 <a href ="https://www.linkedin.com/in/denniscc-20b7a2309/" target = "_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link to LinkedIn Profile">
 <a href ="https://programmer025x.itch.io/" target = "_blank"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to itch.io Profile">
 
