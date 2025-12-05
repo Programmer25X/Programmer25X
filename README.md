@@ -1,5 +1,5 @@
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&pause=500&color=50EB72&center=true&vCenter=true&width=435&lines=Games+Programmer" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=53&pause=500&color=50EB72&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Dennis+Cullip-Cross+-++Games+Programmer" alt="Typing SVG" /></a> </p>
 ## About Me
 
 I am a first-year BSc Computer Science for Games student at the [University of Brighton](https://www.brighton.ac.uk/index.aspx), interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics.
