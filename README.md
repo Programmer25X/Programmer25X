@@ -17,8 +17,8 @@ I am a first-year BSc Computer Science for Games student at the [University of B
 ## GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer25X&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Programmer25X&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Programmer25X&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Programmer25X&theme=github_dark)
 
 ## Contact & Socials
 <a href ="https://www.linkedin.com/in/denniscc-20b7a2309/" target = "_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link to LinkedIn Profile">
