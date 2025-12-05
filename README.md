@@ -19,12 +19,6 @@
 </picture>
 <br></br>
 
-## <p align="center"> **GitHub Stats** </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programmer25X&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Programmer25X&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Programmer25X&theme=github_dark) 
-<br></br>
 
 ## <p align="center"> **Contact & Socials** </p>
 <p align="center"> 
