@@ -22,8 +22,8 @@
 
 ## <p align="center"> **Contact & Socials** </p>
 <p align="center"> 
-  <a  target ="_blank" href ="https://www.linkedin.com/in/denniscc-20b7a2309/"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link to LinkedIn Profile">
-  <a  target ="_blank" href ="https://programmer025x.itch.io/" target ="_blank"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to itch.io Profile"> </a> 
+  <a href ="https://www.linkedin.com/in/denniscc-20b7a2309/"  target ="_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link to LinkedIn Profile">
+  <a href ="https://programmer025x.itch.io/" target ="_blank"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to itch.io Profile"> </a> 
   </p>
 
 
