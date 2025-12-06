@@ -8,7 +8,7 @@
 <p align="center"> Currently, I am learning more about Unity, Unreal Engine 5, C++ by developing small programs and game prototypes. </p>
 <br></br>
 
-## <p align="center"> Skills </p>
+## <p align="center"> **Skills** </p>
 <picture>
 <p align="center"> 
   <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white ">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -19,6 +19,7 @@
 </picture>
 <br></br>
 
+## <p align="center"> **GitHub Stats** </p>
 
 ## <p align="center"> **Contact & Socials** </p>
 <p align="center"> 
