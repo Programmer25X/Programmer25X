@@ -20,6 +20,15 @@
 <br></br>
 
 ## <p align="center"> **GitHub Stats** </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer25X&theme=dark&show_icons=false"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer25X&layout=donut-vertical&langs_count=8&card_width=320" />
+</a>
+</p>
+
 
 ## <p align="center"> **Contact & Socials** </p>
 <p align="center"> 
