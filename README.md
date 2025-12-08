@@ -5,7 +5,7 @@
 
 <p align="center"> Hi, I am Dennis. 👋 </p>
 <p align="center">  I am a first-year BSc (Hons) Computer Science for Games student 🎮 at the <a href="https://www.brighton.ac.uk/index.aspx">University of Brighton</a>, interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics. </p>
-<p align="center"> Currently, I am learning more about Unity, Unreal Engine 5, C++ by developing small programs and game prototypes. </p>
+<p align="center"> Currently, I am learning more about Unity, C#, Unreal Engine 5 and C++ by developing small programs and game prototypes. </p>
 <br></br>
 
 ## <p align="center"> **Skills** </p>
