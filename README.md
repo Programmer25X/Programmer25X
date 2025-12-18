@@ -22,9 +22,9 @@
 ## <p align="center"> **GitHub Stats** </p>
 <picture>
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer25X&theme=dark&show_icons=false"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer25X&theme=shadow_green&rank_icon=github&hide_rank=true&show_icons=false"/>
 </a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer25X&layout=donut-vertical&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer25X&layout=donut-vertical&langs_count=8&card_width=320&theme=shadow_green" />
 </a>
 </p>
 </picture>
