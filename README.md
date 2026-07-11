@@ -3,10 +3,13 @@
 
 ## <p align="center"> **About Me** </p>
 
-<p align="center"> Hi, I am Dennis. 👋 </p>
-<p align="center">  I am a first-year BSc (Hons) Computer Science for Games student 🎮 at the <a href="https://www.brighton.ac.uk/index.aspx">University of Brighton</a>, interested in scripting game mechanics in C# and C++. I enjoy creating prototypes with different game mechanics. </p>
-<p align="center"> Currently, I am learning more about Unity, C#, Unreal Engine 5 and C++ by developing small programs and game prototypes. </p>
-<br></br>
+<p align="center">Hello, I am Dennis.👋</p>
+  
+<p align="center">I am a first-year BSc (Hons) Computer Science for Games student 🎮 at <a href="https://www.brighton.ac.uk/index.aspx">University of Brighton</a>, interested in scripting game mechanics and systems in C# and C++, as well as creating webpages by using HTML5, CSS3 and JavaScript.</p>
+
+<p align="center">I started programming by learning the fundamentals of C#. After learning the fundamentals, I explored advanced concepts, including scripting game mechanics and systems in Unity, and created small applications and games using Windows Forms. Since then, I have continued to hone my programming knowledge and skills by challenging myself by developing my own game mechanics and systems in C# and C++.</p>
+
+<p align="center">Currently, to improve my proficiency in C++ and gain a better understanding of computer graphics, I am developing a custom C++ OpenGL graphics engine, which will eventually allow users to render 3D models and change the lighting within the scene.</p>
 
 ## <p align="center"> **Skills & Tools** </p>
 <picture>
