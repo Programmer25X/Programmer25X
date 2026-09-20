@@ -2,43 +2,51 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=53&pause=500&color=50EB72&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Dennis+Cullip-Cross+-++Games+Programmer" alt="Typing SVG"/></a> </p>
 
 ## <p align="center"> **About Me** </p>
+<section>
+  <p align="center">Hello, I am Dennis.👋</p>
+  <p align="center">I am a second-year BSc (Hons) Computer Science for Games student 🎮 at the <a href="https://www.brighton.ac.uk/index.aspx">University of Brighton</a>, interested in scripting game mechanics and systems in C# and C++, as well as creating webpages by using HTML5, CSS3 and JavaScript.</p>
+  <p align="center">I started programming by learning the fundamentals of C#. After learning the fundamentals, I explored advanced concepts, including scripting game mechanics and systems in Unity, and created small applications and games using Windows Forms. Since then, I have continued to hone my programming knowledge and skills by challenging myself by developing my own game mechanics and systems in C# and C++.</p>
+  <p align="center">Currently, to improve my proficiency in C++ and gain a better understanding of computer graphics, I am developing a custom C++ OpenGL graphics engine, which will eventually allow users to render 3D models and change the lighting within the scene.</p>
+</section>
 
-<p align="center">Hello, I am Dennis.👋</p>
-  
-<p align="center">I am a second-year BSc (Hons) Computer Science for Games student 🎮 at the <a href="https://www.brighton.ac.uk/index.aspx">University of Brighton</a>, interested in scripting game mechanics and systems in C# and C++, as well as creating webpages by using HTML5, CSS3 and JavaScript.</p>
-
-<p align="center">I started programming by learning the fundamentals of C#. After learning the fundamentals, I explored advanced concepts, including scripting game mechanics and systems in Unity, and created small applications and games using Windows Forms. Since then, I have continued to hone my programming knowledge and skills by challenging myself by developing my own game mechanics and systems in C# and C++.</p>
-
-<p align="center">Currently, to improve my proficiency in C++ and gain a better understanding of computer graphics, I am developing a custom C++ OpenGL graphics engine, which will eventually allow users to render 3D models and change the lighting within the scene.</p>
 
 ## <p align="center"> **Skills & Tools** </p>
-<picture>
-<p align="center"> 
-  <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white ">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
-  <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
-  <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-</p>
-</picture>
-<br></br>
+<section>
+  <picture>
+    <p align="center"> 
+      <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white ">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
+      <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
+      <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </p>
+    </picture>
+  <br></br>
+</section>
 
 ## <p align="center"> **GitHub Stats** </p>
-<picture>
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer25X&theme=dark&rank_icon=github&hide_rank=true&show_icons=false"/>
-</a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer25X&layout=donut-vertical&langs_count=8&card_width=320&theme=dark" />
-</a>
-</p>
-</picture>
-<br></br>
+<section>
+  <picture>
+    <p align="center">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer25X&theme=dark&rank_icon=github&hide_rank=true&show_icons=false"/></a>
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer25X&layout=donut-vertical&langs_count=8&card_width=320&theme=dark"/></a>
+    </p>
+  </picture>
+  <br></br>
+</section>
 
 
 ## <p align="center"> **Contact & Socials** </p>
-<p align="center"> 
-  <a href ="https://www.linkedin.com/in/denniscc-20b7a2309/"  target ="_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link to LinkedIn Profile"></a>
-  <a href ="https://programmer025x.itch.io/" target ="_blank"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to itch.io Profile"> </a> 
-</p>
+<section>
+  <address>
+    <p align="center"> Email: <a href="mailto:d.cullip-cross1@uni.brighton.ac.uk">d.cullip-cross1@uni.brighton.ac.uk</a></p>
+    <p align="center"> Portfolio: <a href="https://djcc11.brighton.domains/portfolio/"> Portfolio</a>
+    <p align="center"> LinkedIn: <a href="https://www.linkedin.com/in/denniscc-20b7a2309/" target ="_blank">Dennis Cullip-Cross</a></p>
+    <p align="center"> itch.io: <a href="https://programmer025x.itch.io/" target ="_blank">Programmer25X</a></p>
+    <br></br>
+    <p align="center"> <a href ="https://www.linkedin.com/in/denniscc-20b7a2309/" target ="_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Link     to LinkedIn Profile"></a>
+    <a href ="https://programmer025x.itch.io/" target ="_blank"><img src ="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt = "Link to itch.io Profile"> </a> 
+    </p>
+</address>
+</section>
 
 
 <!--
